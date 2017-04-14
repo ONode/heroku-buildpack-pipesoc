@@ -1,2 +1,3 @@
 # heroku-pipesock-buildpack
-Testing only
+
+The implementation of pipesock in full
